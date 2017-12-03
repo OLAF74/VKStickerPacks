@@ -1,0 +1,9 @@
+{
+    "packs": [
+        {
+            "name": "StickerPackName",
+            "preview": "base64",
+            "url": "url"
+        }
+    ]
+}
