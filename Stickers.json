@@ -3,7 +3,7 @@
         {
             "name": "StickerPackName",
             "preview": "base64",
-            "url": "url"
+            "url": "url",
             "hash": "md5",
             "version": "1.0.0.0"
         }
